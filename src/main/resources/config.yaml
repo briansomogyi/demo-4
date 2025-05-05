@@ -1,0 +1,4 @@
+base:
+  url: https://regres.in
+browser: chrome
+timeout: 15
