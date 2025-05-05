@@ -1,5 +1,5 @@
 {
-  "baseUrl": "https://regres.in",
+  "baseUrl": "https://reqres.in",
   "browser": "chrome",
   "timeout": 20
 }
